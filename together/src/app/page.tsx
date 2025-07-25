@@ -177,7 +177,7 @@ export default function LandingPage() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-gray-900 via-blue-800 to-purple-800 bg-clip-text text-transparent mb-8 leading-tight"
           >
-            Video chatting without any language barriers
+            Video calling without any language barriers
           </motion.h1>
 
           <motion.p
