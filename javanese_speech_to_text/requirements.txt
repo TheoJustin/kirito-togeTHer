@@ -1,0 +1,9 @@
+transformers
+torch
+soundfile
+datasets
+sounddevice
+numpy
+ffmpeg-python
+flask
+flask-cors
